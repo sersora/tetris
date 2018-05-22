@@ -22,6 +22,7 @@ public abstract class AbstractRotator implements Rotator {
         }
         return newMatrix;
     }
+    system;
 
     protected abstract void rotateMatrixPosition(int[][] currentMatrix, int[][] newMatrix, int rowCount, int columnCount, int col);
 }
