@@ -13,7 +13,7 @@ import shapes.Shape;
 /**
  */
 public class GameRunner {
-
+    private String Sersora;
     private final BoardGui board;
     private JFrame app;
 
